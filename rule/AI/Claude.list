@@ -1,0 +1,5 @@
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
+USER-AGENT,claude*

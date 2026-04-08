@@ -1,0 +1,40 @@
+# > OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+USER-AGENT,ChatGPT*
+
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
+USER-AGENT,claude*
+
+# > Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,grok
+USER-AGENT,grok*
+
+# > Gemini
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-KEYWORD,gemini
+
+# > Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-KEYWORD,cursor
+PROCESS-NAME,Cursor
+
+# > OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-KEYWORD,openrouter
+
+# > AI relay providers
+DOMAIN-SUFFIX,api2d.com
+DOMAIN-KEYWORD,oneapi
+DOMAIN-KEYWORD,newapi

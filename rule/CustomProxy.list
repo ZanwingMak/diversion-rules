@@ -1,0 +1,148 @@
+# > 自定义添加
+# > 品葱
+DOMAIN-SUFFIX,pincong.rocks
+# > 膜乎
+DOMAIN-SUFFIX,mohu.rocks
+# > Pixiv
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pixiv.net
+# > donmai
+DOMAIN-SUFFIX,donmai.us
+# > stackoverflow
+DOMAIN-SUFFIX,stackoverflow.com
+# > 4chan
+DOMAIN-SUFFIX,4chan.org
+# > jsfiddle
+DOMAIN-SUFFIX,jsfiddle.net
+# > v2ex
+DOMAIN-SUFFIX,v2ex.com
+# > ptt
+DOMAIN-SUFFIX,ptt.cc
+# > 汤不热
+DOMAIN-SUFFIX,tumblr.com
+# > NicoNico
+DOMAIN-SUFFIX,nicovideo.jp
+# > hltv
+# DOMAIN-SUFFIX,hltv.org
+# > 梯子官网
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,ark.to
+DOMAIN-SUFFIX,nexitallysafe.com
+DOMAIN-SUFFIX,cylinkpro.bar
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,yjc-i.xyz
+# > 博客-毒药
+DOMAIN-SUFFIX,duyaoss.com
+# > 配置托管订阅
+DOMAIN-SUFFIX,bianyuan.xyz
+# > 域名服务商
+# > gandi
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,fastly.net
+# > 邮箱
+DOMAIN-SUFFIX,protonmail.com
+# > steam
+DOMAIN,api.steampowered.com
+DOMAIN,store.steampowered.com
+DOMAIN,akamaihd.net
+DOMAIN-SUFFIX,steamcommunity.com
+# > pawoo
+DOMAIN,pawoo.net
+# > Parler
+DOMAIN,parler.com
+DOMAIN,api.parler.com
+DOMAIN-KEYWORD,parler
+USER-AGENT,parler*
+# > 盖特
+DOMAIN,gettr.com
+DOMAIN,api.gettr.com
+DOMAIN-KEYWORD,gettr
+USER-AGENT,gettr*
+# > Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+USER-AGENT,reddit*
+DOMAIN-SUFFIX,redditlist.com
+# > getchu
+DOMAIN-SUFFIX,getchu.com
+# > rfa
+DOMAIN-SUFFIX,rfa.org
+# > mozilla
+DOMAIN-SUFFIX,mozilla.org
+# > nyaa bt
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,nyaa.se
+# > hanime1
+#DOMAIN-SUFFIX,anime1.me
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-KEYWORD,hanime1
+# > themoviedb (tinyMediaManager需要)
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+# > south-plus
+DOMAIN-SUFFIX,south-plus.org
+# > nhentai
+DOMAIN-SUFFIX,nhentai.net
+# > e-hentai/ex-hentai
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,forums.e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,hentaiverse.org
+DOMAIN-KEYWORD,hentai
+USER-AGENT,hentai*
+# DOMAIN-SUFFIX,hath.network 分布式分流 可以不代理
+IP-CIDR,178.175.129.254/32,no-resolve
+IP-CIDR,172.67.0.127/32,no-resolve
+# > melonbooks
+DOMAIN-SUFFIX,melonbooks.co.jp
+# > mastodon 相关
+DOMAIN-SUFFIX,mastodon.social
+# > pages 相关
+DOMAIN-SUFFIX,pages.dev
+# > TruthSocial 相关
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-KEYWORD,truthsocial
+# > bookoffonline 相关
+DOMAIN-SUFFIX,bookoffonline.co.jp
+# > booth 相关
+DOMAIN-SUFFIX,booth.pm
+# > patreon 相关
+DOMAIN-SUFFIX,patreon.com
+# > fanbox 相关
+DOMAIN-SUFFIX,fanbox.cc
+# > civitai 相关
+DOMAIN-SUFFIX,civitai.com
+# > 盈透证券
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-KEYWORD,interactivebrokers
+# > 嘉信理财
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-KEYWORD,schwab
+# > 数字居民
+DOMAIN-SUFFIX,shuzijumin.com
+# > 2poi代购
+DOMAIN-SUFFIX,2poi.jp
+DOMAIN-SUFFIX,2poi.cc
+# > 动漫花园
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-KEYWORD,dmhy
+# > tradingview
+DOMAIN-SUFFIX,tradingview.com
+# > npm
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+# > docker
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+# > myanimelist
+DOMAIN-SUFFIX,myanimelist.net
+# > nikan
+DOMAIN-SUFFIX,mikanani.me
+# > missav
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-KEYWORD,missav

@@ -1,0 +1,6 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/Claude.list
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
+USER-AGENT,claude*

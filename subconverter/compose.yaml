@@ -1,0 +1,15 @@
+services:
+  subconverter:
+    image: tindy2013/subconverter:latest
+    container_name: subconverter
+    restart: always
+    ports:
+      - "25500:25500"
+    volumes:
+      - ./pref.toml:/base/pref.toml
+      - ./base:/base/base
+      - ./snippets:/base/snippets
+      - ./rules:/base/rules
+    environment:
+      - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+      - TZ=Asia/Shanghai

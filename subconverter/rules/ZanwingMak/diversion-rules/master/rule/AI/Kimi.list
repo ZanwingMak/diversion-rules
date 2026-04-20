@@ -1,0 +1,5 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/Kimi.list
+# > Kimi
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,kimi.cn

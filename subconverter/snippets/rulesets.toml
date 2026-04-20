@@ -1,0 +1,347 @@
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/CustomProxy.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "YouTube"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "YouTubeMusic"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/YouTubeMusic/YouTubeMusic.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Google"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "NETFLIX"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "AbemaTV"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/AbemaTV/AbemaTV.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Pornhub"
+ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Pornhub.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "TikTok"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Spotify"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Spotify/Spotify.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Twitch"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Twitch/Twitch.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DMM"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/DMM/DMM.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Amazon"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Amazon/Amazon.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "ClubHouse"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Clubhouse/Clubhouse.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "巴哈姆特"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Bahamut/Bahamut.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "哔哩哔哩"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "爱奇艺"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/iQIYI/iQIYI.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Telegram"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Telegram/Telegram.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "任天堂"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Nintendo/Nintendo.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "苹果服务"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "微软服务"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Microsoft/Microsoft.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "OpenAI"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/OpenAI.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Claude"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/Claude.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Grok"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/Grok.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Gemini"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/Gemini.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Cursor"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/Cursor.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "OpenRouter"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/OpenRouter.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "海外AI"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/OverseasAI.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "AI中转"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/AIRelay.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "MiniMax"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/MiniMax.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "MiniMax国际"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/MiniMaxIntl.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Kimi"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/Kimi.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Kimi国际"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/KimiIntl.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "GLM"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/GLM.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "GLM国际"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/GLMIntl.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "国产AI国内"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/ChinaAI-Domestic.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "国产AI国际"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/ChinaAI-Intl.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "国产AI"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/ChinaAI.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "GitHub"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Discord"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Discord/Discord.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Paypal"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "网易云音乐"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/NetEaseMusic/NetEaseMusic.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Steam"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Steam/Steam.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "暴雪娱乐"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Blizzard/Blizzard.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "PlayStation"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/PlayStation/PlayStation.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "EA"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/EA/EA.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Origin"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Origin/Origin.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "UBI"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/UBI/UBI.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Gog"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Gog/Gog.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Rockstar"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Rockstar/Rockstar.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Epic"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Epic/Epic.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Xbox"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Xbox/Xbox.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Disney"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Niconico"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Niconico/Niconico.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Hulu"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Hulu/Hulu.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "Emby"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Emby/Emby.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "游戏平台"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Game/Game.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "网络测速"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "手游(日服)-Kirarafantasia"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/Game/Kirarafantasia.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "手游(日服)-公主连结"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/Game/PrincessConnectRedive.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "手游(台服)-公主连结"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/Game/PrincessConnectRedive-TW.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "国外媒体"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "国内媒体"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "全球拦截"
+ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/UnBan.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "DIRECT"
+ruleset = "[]GEOIP,CN"
+
+[[rulesets]]
+group = "漏网之鱼"
+ruleset = "[]FINAL"

@@ -1,0 +1,4 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/GLMIntl.list
+# > GLM Intl
+DOMAIN-SUFFIX,z.ai
+DOMAIN-SUFFIX,bigmodelai.com

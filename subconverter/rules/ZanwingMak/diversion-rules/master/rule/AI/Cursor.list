@@ -1,0 +1,5 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/Cursor.list
+# > Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-KEYWORD,cursor
+PROCESS-NAME,Cursor

@@ -1,0 +1,5 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/GLM.list
+# > GLM
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,zhipuai.cn

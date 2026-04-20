@@ -1,0 +1,7 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/Game/PrincessConnectRedive.list
+# > PrincessConnectRedive プリンセスコネクト！Re:Dive 公主连结 日服
+USER-AGENT,princessconnectredive*
+DOMAIN-SUFFIX,app.priconne-redive.jp
+DOMAIN-SUFFIX,omotenashi.cygames.jp
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net

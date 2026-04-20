@@ -1,0 +1,4 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/OpenRouter.list
+# > OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-KEYWORD,openrouter

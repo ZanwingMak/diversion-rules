@@ -1,0 +1,19 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/ChinaAI-Domestic.list
+# > China AI Domestic
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,minimaxi.cn
+DOMAIN-SUFFIX,api.minimaxi.com
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,kimi.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,deepseek.cn
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubao.cn
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,dashscope.aliyuncs.com
+DOMAIN-SUFFIX,yuanbao.tencent.com
+DOMAIN-SUFFIX,hunyuan.tencent.com

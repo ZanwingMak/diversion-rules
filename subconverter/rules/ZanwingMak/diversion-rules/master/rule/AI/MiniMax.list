@@ -1,0 +1,6 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/AI/MiniMax.list
+# > MiniMax
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,minimaxi.cn
+DOMAIN-SUFFIX,api.minimaxi.com
+DOMAIN-SUFFIX,hailuoai.com

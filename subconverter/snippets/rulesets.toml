@@ -1,10 +1,5 @@
 [[rulesets]]
 group = "节点选择"
-ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All.list"
-type = "surge-ruleset"
-
-[[rulesets]]
-group = "节点选择"
 ruleset = "rules/ZanwingMak/diversion-rules/master/rule/CustomProxy.list"
 type = "surge-ruleset"
 
@@ -305,7 +300,7 @@ type = "surge-ruleset"
 
 [[rulesets]]
 group = "国外媒体"
-ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All.list"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list"
 type = "surge-ruleset"
 
 [[rulesets]]
@@ -331,6 +326,11 @@ type = "surge-ruleset"
 [[rulesets]]
 group = "DIRECT"
 ruleset = "rules/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/Proxy/Proxy_All_No_Resolve.list"
 type = "surge-ruleset"
 
 [[rulesets]]

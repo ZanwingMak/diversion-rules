@@ -1,7 +1,15 @@
 # > 中资券商
 # 富途 / moomoo
+DOMAIN,api.futunn.com
+DOMAIN,collect.futunn.com
+DOMAIN,collect.futnunn.com
+DOMAIN,openapi.futunn.com
+DOMAIN,trade.futunn.com
+DOMAIN,quote.futunn.com
+DOMAIN,push.futunn.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futnunn.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futuie.com
@@ -9,6 +17,7 @@ DOMAIN-SUFFIX,fututrustee.com
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-KEYWORD,futuhk
 DOMAIN-KEYWORD,futunn
+DOMAIN-KEYWORD,futnunn
 DOMAIN-KEYWORD,moomoo
 USER-AGENT,Futu*
 USER-AGENT,Futubull*

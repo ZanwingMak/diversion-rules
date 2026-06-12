@@ -1,0 +1,133 @@
+# > 海外券商
+# Interactive Brokers / IBKR
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,interactiveadvisors.com
+DOMAIN,api.ibkr.com
+DOMAIN,ndcdyn.interactivebrokers.com
+DOMAIN-KEYWORD,interactivebrokers
+DOMAIN-KEYWORD,ibkr
+USER-AGENT,IBKR*
+USER-AGENT,TWS*
+
+# Charles Schwab / thinkorswim / TD Ameritrade
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabapi.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,tos.mx
+DOMAIN,api.schwabapi.com
+DOMAIN,api.tdameritrade.com
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,thinkorswim
+DOMAIN-KEYWORD,tdameritrade
+USER-AGENT,Schwab*
+USER-AGENT,thinkorswim*
+
+# Fidelity
+DOMAIN-SUFFIX,fidelity.com
+DOMAIN-SUFFIX,fidelityinvestments.com
+DOMAIN-SUFFIX,fidelityinternational.com
+DOMAIN-SUFFIX,fmr.com
+DOMAIN-KEYWORD,fidelity
+USER-AGENT,Fidelity*
+
+# Robinhood
+DOMAIN-SUFFIX,robinhood.com
+DOMAIN-SUFFIX,robinhoodcdn.com
+DOMAIN-SUFFIX,robinhoodmarkets.com
+DOMAIN,api.robinhood.com
+DOMAIN-KEYWORD,robinhood
+USER-AGENT,Robinhood*
+
+# E*TRADE / Morgan Stanley
+DOMAIN-SUFFIX,etrade.com
+DOMAIN-SUFFIX,morganstanleyclientserv.com
+DOMAIN-SUFFIX,stockplanconnect.com
+DOMAIN-KEYWORD,etrade
+USER-AGENT,E*TRADE*
+
+# Webull
+DOMAIN-SUFFIX,webull.com
+DOMAIN-SUFFIX,webullapp.com
+DOMAIN-SUFFIX,webullfintech.com
+DOMAIN-SUFFIX,webullbroker.com
+DOMAIN-SUFFIX,webulltrade.com
+DOMAIN,api.webull.com
+DOMAIN-KEYWORD,webull
+USER-AGENT,Webull*
+
+# tastytrade / tastyworks
+DOMAIN-SUFFIX,tastytrade.com
+DOMAIN-SUFFIX,tastyworks.com
+DOMAIN-SUFFIX,tastylive.com
+DOMAIN,api.tastytrade.com
+DOMAIN,api.tastyworks.com
+DOMAIN-KEYWORD,tastytrade
+DOMAIN-KEYWORD,tastyworks
+USER-AGENT,tastytrade*
+USER-AGENT,tastyworks*
+
+# TradeStation
+DOMAIN-SUFFIX,tradestation.com
+DOMAIN-SUFFIX,tradestation.io
+DOMAIN-SUFFIX,tradestationapi.com
+DOMAIN,api.tradestation.com
+DOMAIN,sim-api.tradestation.com
+DOMAIN-KEYWORD,tradestation
+USER-AGENT,TradeStation*
+
+# Firstrade
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-KEYWORD,firstrade
+USER-AGENT,Firstrade*
+
+# Alpaca
+DOMAIN-SUFFIX,alpaca.markets
+DOMAIN-SUFFIX,alpacaapi.com
+DOMAIN,api.alpaca.markets
+DOMAIN,paper-api.alpaca.markets
+DOMAIN,data.alpaca.markets
+DOMAIN-KEYWORD,alpaca
+USER-AGENT,Alpaca*
+
+# Saxo
+DOMAIN-SUFFIX,home.saxo
+DOMAIN-SUFFIX,saxo.com
+DOMAIN-SUFFIX,saxobank.com
+DOMAIN-SUFFIX,saxotrader.com
+DOMAIN-KEYWORD,saxo
+USER-AGENT,Saxo*
+
+# eToro
+DOMAIN-SUFFIX,etoro.com
+DOMAIN-SUFFIX,etorostatic.com
+DOMAIN-KEYWORD,etoro
+USER-AGENT,eToro*
+
+# IG / Trading 212 / Plus500
+DOMAIN-SUFFIX,ig.com
+DOMAIN-SUFFIX,iggroup.com
+DOMAIN-SUFFIX,igmarkets.com
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,trading212.io
+DOMAIN-SUFFIX,plus500.com
+DOMAIN-KEYWORD,trading212
+DOMAIN-KEYWORD,plus500
+USER-AGENT,IGTrading*
+USER-AGENT,Trading212*
+USER-AGENT,Plus500*
+
+# Vanguard / Merrill Edge / Public
+DOMAIN-SUFFIX,vanguard.com
+DOMAIN-SUFFIX,merrilledge.com
+DOMAIN-SUFFIX,public.com
+DOMAIN-SUFFIX,publicinvest.com
+DOMAIN-KEYWORD,vanguard
+DOMAIN-KEYWORD,merrilledge
+USER-AGENT,Vanguard*
+USER-AGENT,MerrillEdge*
+USER-AGENT,Public*

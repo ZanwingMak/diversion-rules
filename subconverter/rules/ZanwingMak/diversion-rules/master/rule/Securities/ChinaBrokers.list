@@ -1,0 +1,126 @@
+# SOURCE: https://raw.githubusercontent.com/ZanwingMak/diversion-rules/master/rule/Securities/ChinaBrokers.list
+# > 中资券商
+# 富途 / moomoo
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuie.com
+DOMAIN-SUFFIX,fututrustee.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-KEYWORD,futuhk
+DOMAIN-KEYWORD,futunn
+DOMAIN-KEYWORD,moomoo
+USER-AGENT,Futu*
+USER-AGENT,Futubull*
+USER-AGENT,moomoo*
+
+# 老虎证券
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,tigerbrokers.com
+DOMAIN-SUFFIX,tigerbrokers.com.hk
+DOMAIN-SUFFIX,tigerbrokers.com.sg
+DOMAIN-SUFFIX,tigerbrokers.com.au
+DOMAIN-SUFFIX,tigerfintech.com
+DOMAIN-SUFFIX,tigersecurities.com
+DOMAIN-KEYWORD,itiger
+DOMAIN-KEYWORD,tigerbrokers
+USER-AGENT,TigerTrade*
+USER-AGENT,TigerBrokers*
+
+# 长桥证券 / Longbridge
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,longport
+USER-AGENT,Longbridge*
+USER-AGENT,LongPort*
+
+# 华盛证券 / 华盛通
+DOMAIN-SUFFIX,vbkr.com
+DOMAIN-SUFFIX,valuable.com.hk
+DOMAIN-SUFFIX,hstong.com
+DOMAIN-SUFFIX,huashengtong.com
+DOMAIN-KEYWORD,vbkr
+DOMAIN-KEYWORD,hstong
+USER-AGENT,hstong*
+USER-AGENT,Valuable*
+
+# 盈立证券 / uSMART
+DOMAIN-SUFFIX,usmartglobal.com
+DOMAIN-SUFFIX,usmartsecurities.com
+DOMAIN-SUFFIX,usmartsg.com
+DOMAIN-KEYWORD,usmart
+USER-AGENT,uSMART*
+
+# 国泰君安国际 / 国泰海通 / 海通国际
+DOMAIN-SUFFIX,gtjai.com
+DOMAIN-SUFFIX,gtja.com.hk
+DOMAIN-SUFFIX,gtht.com
+DOMAIN-SUFFIX,htisec.com
+DOMAIN-KEYWORD,gtjai
+DOMAIN-KEYWORD,gtja
+DOMAIN-KEYWORD,gtht
+DOMAIN-KEYWORD,htisec
+USER-AGENT,GTJAI*
+USER-AGENT,Junhong*
+
+# 中银国际 / 中信证券香港 / 申万宏源香港
+DOMAIN-SUFFIX,bocionline.com
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,swhyhk.com
+DOMAIN-KEYWORD,bocionline
+DOMAIN-KEYWORD,citics
+DOMAIN-KEYWORD,swhyhk
+
+# 招商证券国际 / 广发证券香港 / 中国银河国际
+DOMAIN-SUFFIX,cmschina.com.hk
+DOMAIN-SUFFIX,gfgroup.com.hk
+DOMAIN-SUFFIX,chinastock.com.hk
+DOMAIN-KEYWORD,cmschina
+DOMAIN-KEYWORD,gfgroup
+DOMAIN-KEYWORD,chinastock
+USER-AGENT,CMSHK*
+
+# 华泰国际 / 光大证券国际 / 信达国际
+DOMAIN-SUFFIX,htsc.com.hk
+DOMAIN-SUFFIX,htsc.com.cn
+DOMAIN-SUFFIX,ebshk.com
+DOMAIN-SUFFIX,cinda.com.hk
+DOMAIN-KEYWORD,htsc
+DOMAIN-KEYWORD,ebshk
+DOMAIN-KEYWORD,cinda
+USER-AGENT,HTSC*
+
+# 中金公司 / 招银国际 / 交银国际
+DOMAIN-SUFFIX,cicc.com
+DOMAIN-SUFFIX,cicc.com.cn
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,bocomgroup.com
+DOMAIN-KEYWORD,cicc
+DOMAIN-KEYWORD,cmbi
+DOMAIN-KEYWORD,bocomgroup
+
+# 东方证券国际 / 兴证国际 / 国信证券香港 / 中泰国际
+DOMAIN-SUFFIX,dfzq.com.hk
+DOMAIN-SUFFIX,xyzq.com.hk
+DOMAIN-SUFFIX,guosen.com.hk
+DOMAIN-SUFFIX,ztsc.com.hk
+DOMAIN-KEYWORD,dfzq
+DOMAIN-KEYWORD,xyzq
+DOMAIN-KEYWORD,guosen
+DOMAIN-KEYWORD,ztsc
+
+# 香港本地常用券商
+DOMAIN-SUFFIX,poems.com.hk
+DOMAIN-SUFFIX,phillip.com.hk
+DOMAIN-SUFFIX,bsgroup.com.hk
+DOMAIN-SUFFIX,brightsmart.com.hk
+DOMAIN-SUFFIX,chiefgroup.com.hk
+DOMAIN-KEYWORD,poems
+DOMAIN-KEYWORD,brightsmart
+DOMAIN-KEYWORD,chiefgroup
+USER-AGENT,POEMS*
+USER-AGENT,BrightSmart*

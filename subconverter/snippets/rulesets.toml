@@ -184,6 +184,16 @@ ruleset = "rules/ZanwingMak/diversion-rules/master/rule/AI/ChinaAI.list"
 type = "surge-ruleset"
 
 [[rulesets]]
+group = "中资券商"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/Securities/ChinaBrokers.list"
+type = "surge-ruleset"
+
+[[rulesets]]
+group = "海外券商"
+ruleset = "rules/ZanwingMak/diversion-rules/master/rule/Securities/OverseasBrokers.list"
+type = "surge-ruleset"
+
+[[rulesets]]
 group = "GitHub"
 ruleset = "rules/blackmatrix7/ios_rule_script/master/rule/Surge/GitHub/GitHub.list"
 type = "surge-ruleset"
